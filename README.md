@@ -19,4 +19,3 @@ Written in C++
 # Useful Websites
 
 https://chatgpt.com/
-https://
